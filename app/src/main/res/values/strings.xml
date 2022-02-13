@@ -1,0 +1,118 @@
+<resources>
+
+    <string name="app_name">کمک رسان</string>
+    <string name="uploadImages">انتخاب عکس</string>
+    <string name="open_drawer">open navigation drawer</string>
+    <string name="close_drawer">close navigation drawer</string>
+    <string name="error_toast">"مشکل در اتصال شبکه "</string>
+    <string name="success_toast">موفقیت</string>
+    <string name="camera">گرفتن عکس از کمره</string>
+    <string name="gallery">گرفتن عکس از گالری</string>
+    <string name="warning_toast">مشکل در سرویس دهی</string>
+    <string name="info_toast">لطفا عکس را انتخاب کنید</string>
+    <string name="write_report">شکایت و آدرس را بنویسید</string>
+    <string name="exist">برای خروج کلید بازگشت را دوباره فشاردهید</string>
+    <string name="write_name">لطفا نام سرپرست خانواده را وارد کنید</string>-->
+    <string name="write_phone">لطفا شماره تماس سرپرست خانواده را وارد کنید</string>
+    <string name="write_family">لطفا تعداد اعضای خانواده را وارد کنید</string>
+    <string name="write_village">لطفا منطقه/قریه خود را وارد کنید</string>
+    <string name="permission">اجازه داده شد</string>-->
+    <string name="permission_not">اجازه داده نشد</string>
+    <string name="loading">در حال بارگیری...</string>
+    <string name="share">شریک ساختن</string>
+    <string name="about">درباره</string>
+    <string name="register">راجستر</string>
+    <string name="parson_name">نام :</string>-->
+        <string name="family_number">تعداد اعضای خانواده:</string>
+    <string name="home">خانه</string>
+    <string name="btn_save">ثبت</string>
+    <string name="name">نام سرپرست خانواده</string>
+    <string name="number">تعداد اعضای خانواده</string>
+    <string name="phone_number">شماره تماس سرپرست</string>
+    <string name="place">منطقه/قریه</string>
+    <string name="choose_one">یکی را انتخاب کن</string>
+    <string name="county">ولسوالی</string>
+    <string name="zone">ناحیه</string>
+
+
+    <string name="version">نسخه ۱.۰</string>
+    <string name="connect_us"> راه های ارتباطی آسوده آور </string>
+    <string name="about_page">کمک رسان یک اپ اجتماعی است ک برای ثبت فامیل های نیازمند و فقیر و برای کمک به آن خانواده ها ساخته شده است. با
+استفاده از این اپ هر فرد میتواند فامیل های نیازمند منطقه خود را ثبت نام کند و بعدا تیم مسوول در مورد آن فامیل تحقیق
+کرده و نظر به حالت اقتصادی شان به آن فامیل کمک خواهند کرد</string>
+    <string name="title_parson_image">عکس تذکره سرپرست خانواده</string>
+    <string name="title_home_image">عکس محل سکونت</string>
+    <string name="local">قریه/منطقه :</string>
+    <string name="help">کمک دولت:</string>
+    <string name="second_text">کمک به دیگران کمک به خود است</string>
+    <string name="second_parson">(اپرا وینفری)</string>
+    <string name="long_text">یکی از کارهای بسیار مهم زندگی مؤمن که مورد تأکید خدا و رسول گرامی اسلام (صلی الله علیه و آله) است که همیشه باید در
+لیست برنامه های ضروری او باشد، مسئله ی برآوردن حاجات مؤمنین و گره گشایی از زندگی آنهاست.
+در حدیثی از پیامبر عزیز اسلام (صلی الله علیه و آله) وارد شده است که حضرت فرمود: هر کس دل مؤمنی را شاد کند، مرا شاد
+نموده و هر که مرا شاد نماید خدا را شاد نموده است</string>
+
+
+    <!--    <string name="app_name">KomakRasan</string>-->
+<!--    <string name="uploadImages">Choose Image</string>-->
+<!--    <string name="open_drawer">open navigation drawer</string>-->
+<!--    <string name="close_drawer">close navigation drawer</string>-->
+<!--    <string name="error_toast">Internet Problem</string>-->
+<!--    <string name="warning_toast">Server Problem</string>-->
+<!--    <string name="success_toast">Success</string>-->
+<!--    <string name="info_toast">please choose image</string>-->
+<!--    <string name="logout">Logout</string>-->
+<!--    <string name="logout_text">Do you want to exist ?</string>-->
+<!--    <string name="yes">Yes</string>-->
+<!--    <string name="permission">Permission granted</string>-->
+<!--    <string name="permission_not">Permission not granted</string>-->
+<!--    <string name="no">No</string>-->
+<!--    <string name="camera">Click from camera</string>-->
+<!--    <string name="gallery">Pick from gallery</string>-->
+<!--    <string name="exist">press again to exist</string>-->
+<!--    <string name="loading">Loading...</string>-->
+<!--    <string name="share">Share</string>-->
+<!--    <string name="about">About</string>-->
+<!--    <string name="register">register</string>-->
+<!--    <string name="home">Home</string>-->
+<!--    <string name="btn_save">save</string>-->
+<!--    <string name="name">Name of Husbandman</string>-->
+<!--    <string name="number">Number of Family</string>-->
+<!--    <string name="phone_number">PhoneNumber of Husbandman</string>-->
+<!--    <string name="place">Village/Zone</string>-->
+<!--    <string name="choose_one">choose one</string>-->
+<!--    <string name="county">County</string>-->
+<!--    <string name="zone">Area</string>-->
+<!--    <string name="write_name">please write name of husbandman </string>-->
+<!--    <string name="write_phone">please write phonenumber of husbandman</string>-->
+<!--    <string name="write_family">please write number of family</string>-->
+<!--    <string name="write_village">please write village/zone</string>-->
+
+
+
+<!--    <string name="version">Version 1.0</string>-->
+<!--    <string name="connect_us"> Our Convenient Ways </string>-->
+<!--    <string name="about_page">Komak rasan is a social application that, its purpose is to determine poor and needy families of the-->
+<!--society and help them. Everyone can register the needy families in their region and the relevant part-->
+<!--are responsible to investigate to the families and report to the people by this application.-->
+<!--    Developers:-->
+<!--    Saeqa Sultani,-->
+<!--    Sudaba Solaimankhil-->
+<!--    and-->
+<!--    Saliha Haidary</string>-->
+<!--    <string name="long_text">One of the most important point of a Muslim life that Allah and Mohammad(PUBH) emphasized that-->
+<!--in every Muslim schedule must be helping needy person and solve their problems. It is narrated from-->
+<!--Mohammad that said “whoever makes a Muslim happy, makes me happy, and whoever makes me-->
+<!--happy makes God happy.”</string>-->
+<!--    <string name="title_parson_image">Passport Image</string>-->
+<!--    <string name="title_home_image">Image of Home</string>-->
+<!--    <string name="local">village/zone :</string>-->
+<!--    <string name="help">Government Help:</string>-->
+<!--    <string name="second_text">Helping others is the way we help ourselves</string>-->
+<!--    <string name="second_parson">(Oprah Winfrey)</string>-->
+<!--    <string name="parson_name">Name :</string>-->
+<!--    <string name="family_number">Number of Family :</string>-->
+
+
+</resources>
+
+
